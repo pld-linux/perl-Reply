@@ -7,7 +7,7 @@
 Summary:	Reply - read, eval, print, loop, yay!
 Name:		perl-Reply
 Version:	0.37
-Release:	1
+Release:	2
 License:	mit
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/D/DO/DOY/Reply-%{version}.tar.gz
