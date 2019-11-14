@@ -6,12 +6,12 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Reply - read, eval, print, loop, yay!
 Name:		perl-Reply
-Version:	0.37
-Release:	2
+Version:	0.42
+Release:	1
 License:	mit
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/D/DO/DOY/Reply-%{version}.tar.gz
-# Source0-md5:	a66c01fead3a02b0dd9ad835b9b8b422
+# Source0-md5:	194495d634db7d8636e42ea49295914a
 URL:		http://search.cpan.org/dist/Reply/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
