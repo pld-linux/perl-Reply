@@ -3,7 +3,6 @@
 %bcond_without	tests		# do not perform "make test"
 #
 %define		pdir	Reply
-%include	/usr/lib/rpm/macros.perl
 Summary:	Reply - read, eval, print, loop, yay!
 Name:		perl-Reply
 Version:	0.42
